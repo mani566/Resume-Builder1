@@ -1,0 +1,50 @@
+{
+	"data":[
+		{
+			"id":1,
+			"name":"SAI VANDANA",
+			"email":"saivandanad@gmail.com",
+			"phone":"+91 8374614212",
+			"education":[
+				{
+					"degree":"ssc",
+					"institute":"varadhi school",
+					"data":["85%","2013-14"]
+				},
+				{
+					"degree":"intermediate",
+					"institute":"sri sai college",
+					"data":["72%","2014-16"]
+				},
+				{
+					"degree":"B-tech",
+					"institute":"svit college",
+					"data":["72%","2016-20"]
+				}
+			]
+		},
+		{
+			"id":2,
+			"name":"SAI VANDANA",
+			"email":"SAIVANDANAD@gmail.com",
+			"phone":"+91 8374614212",
+			"education":[
+				{
+					"degree":"ssc",
+					"institute":"varadhi school",
+					"data":["85%","2013-14"]
+				},
+				{
+					"degree":"intermediate",
+					"institute":"sri sai college",
+					"data":["72%","2014-16"]
+				},
+				{
+					"degree":"B-tech",
+					"institute":"svit college",
+					"data":["72%","2016-20"]
+				}
+			]
+		}
+	]
+}
